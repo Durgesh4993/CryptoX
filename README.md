@@ -11,7 +11,9 @@ Experience a variety of trading on Bitcost. You can use various types of coin tr
 ## Buy and sell BTC, ETH, XRP, OKB, Etc...
 * Experience a variety of trading on Bitcost. You can use various types of coin transactions such as Spot Trade, Futures Trade, P2P, Staking, Mining, and margin.
 
+______________________________________________________________________________________________________________________________________________________________________________________________________
 
+# Some Images
 
 ![image](https://github.com/Durgesh4993/CryptoX/assets/98798977/8a2965a9-2304-4a8b-b330-c2a4300a042e)
 
