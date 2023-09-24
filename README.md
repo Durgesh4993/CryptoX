@@ -11,6 +11,15 @@ Experience a variety of trading on Bitcost. You can use various types of coin tr
 ## Buy and sell BTC, ETH, XRP, OKB, Etc...
 * Experience a variety of trading on Bitcost. You can use various types of coin transactions such as Spot Trade, Futures Trade, P2P, Staking, Mining, and margin.
 
+# Free Your Money & Invest With Confident
+With Cryptor Trade, you can be sure your trading skills are matched
+
+## Buy, Sell, And Trade On The Go
+* Manage Your Holdings From Your Mobile Decive
+
+## Take Control Of Your Wealth
+* Rest Assured You (And Only You) Have Access To Your Funds
+
 ______________________________________________________________________________________________________________________________________________________________________________________________________
 
 # Some Images
