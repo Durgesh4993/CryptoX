@@ -1,4 +1,6 @@
 # CryptoX
+Buy & Sell Digital Assets In The CryptoX
+Coin CryptoX is the easiest, safest, and fastest way to buy & sell crypto asset exchange.
 
 ![image](https://github.com/Durgesh4993/CryptoX/assets/98798977/8a2965a9-2304-4a8b-b330-c2a4300a042e)
 
