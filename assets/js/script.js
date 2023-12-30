@@ -26,7 +26,6 @@ const toggleNavbar = function () {
   navToggler.classList.toggle("active");
   document.body.classList.toggle("active");
 }
-
 addEventOnElem(navToggler, "click", toggleNavbar);
 const closeNavbar = function () {
   navbar.classList.remove("active");
