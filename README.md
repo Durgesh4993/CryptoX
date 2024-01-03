@@ -2,6 +2,7 @@
 Buy & Sell Digital Assets In The CryptoX
 Coin CryptoX is the easiest, safest, and fastest way to buy & sell crypto asset exchange.
 
+
 - What Is CryptoX
 Experience a variety of trading on Bitcost. You can use various types of coin transactions such as Spot Trade, Futures Trade, P2P, Staking, Mining, and margin.
 
