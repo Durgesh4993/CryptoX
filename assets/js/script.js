@@ -9,6 +9,7 @@ const addEventOnElem = function (elem, type, callback) {
     for (let i = 0; i < elem.length; i++) {
       elem[i].addEventListener(type, callback);
     }
+    
   } else {
     elem.addEventListener(type, callback);
   }
